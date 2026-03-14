@@ -1,0 +1,91 @@
+# -------------------------
+
+# Python cache files
+
+# -------------------------
+
+**pycache**/
+*.py[cod]
+*$py.class
+
+# -------------------------
+
+# Virtual environments
+
+# -------------------------
+
+venv/
+.env/
+.venv/
+env/
+
+# -------------------------
+
+# PyCharm / IntelliJ
+
+# -------------------------
+
+.idea/
+*.iml
+out/
+
+# -------------------------
+
+# Logs
+
+# -------------------------
+
+logs/
+*.log
+
+# -------------------------
+
+# OS files
+
+# -------------------------
+
+.DS_Store
+Thumbs.db
+
+# -------------------------
+
+# Dataset large files (optional)
+
+# -------------------------
+
+datasets/*.zip
+datasets/*.xlsx
+
+# -------------------------
+
+# Firebase secrets
+
+# -------------------------
+
+firebase/firebase_config.json
+
+# -------------------------
+
+# Environment variables
+
+# -------------------------
+
+.env
+
+# -------------------------
+
+# Node modules (if frontend added later)
+
+# -------------------------
+
+node_modules/
+
+# -------------------------
+
+# Python build files
+
+# -------------------------
+
+build/
+dist/
+*.egg-info/
